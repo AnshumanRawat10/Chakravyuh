@@ -1,0 +1,11 @@
+node_modules/
+.DS_Store
+
+# Backend Data and Uploads (Never push classified data to GitHub)
+backend/data/
+backend/uploads/
+*.log
+
+# Frontend Build
+frontend/dist/
+frontend/dist-ssr/
